@@ -24,8 +24,8 @@ List<Category>getCategory(){
   Categories.add(category);
   category=new Category();
 
-  category.categoryName="BBC";
-  category.image="images/bbc.jpg";
+  category.categoryName="Health";
+  category.image="images/health.jpg";
   Categories.add(category);
   category=new Category();
 
